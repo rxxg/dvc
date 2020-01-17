@@ -1,2 +1,2 @@
 def method():
-    pass
+    return True
